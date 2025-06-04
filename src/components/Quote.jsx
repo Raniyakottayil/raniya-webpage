@@ -7,7 +7,7 @@ const Quote = () => {
   const navigate = useNavigate();
 
   const handleGetInTouch = () => {
-    navigate('/contact'); // Adjust route if it's different in your app
+    navigate('/contact'); 
   };
 
   return (

@@ -6,7 +6,7 @@ import Services from "../components/Services";
 import Service from "../components/Service";
 
 import Footer from "../components/Footer";
-import ServicesBanner from "../components/banner/Servicebanner";
+import ServicesBanner from "../components/banner/ServiceBanner";
 const Servicepage = () => {
   return (
     <div>
